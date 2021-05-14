@@ -7,3 +7,5 @@ Now it can only plot upper case letter....
  
 example picture
 ![plot](https://github.com/zzgeng/Write_on_Heatmap/blob/main/example%20pic/example1.png)
+![plot](https://github.com/zzgeng/Write_on_Heatmap/blob/main/example%20pic/example2.png)
+![plot](https://github.com/zzgeng/Write_on_Heatmap/blob/main/example%20pic/example3.png)
