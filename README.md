@@ -6,4 +6,4 @@ https://zzgeng.shinyapps.io/heatmapWrite/
 Now it can only plot upper case letter....
  
 example picture
-https://github.com/zzgeng/Write_on_Heatmap/blob/main/example%20pic/example1.png
+![plot](https://github.com/zzgeng/Write_on_Heatmap/blob/main/example%20pic/example1.png)
