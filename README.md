@@ -1,7 +1,7 @@
 # Write_on_Heatmap
 ## A side R project using Shiney app
 The shiny webpage link is below:
-https://zzgeng.shinyapps.io/heatmapWrite/
+ https://zzgeng.shinyapps.io/Write_on_Heatmap/
  
 Now it can only plot upper case letter....
  
