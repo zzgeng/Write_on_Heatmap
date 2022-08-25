@@ -1,5 +1,5 @@
 # Write_on_Heatmap
-## A side R project using Shiney app
+## A side R project using Shiny app
 The shiny webpage link is below:
  https://zzgeng.shinyapps.io/Write_on_Heatmap/
  
